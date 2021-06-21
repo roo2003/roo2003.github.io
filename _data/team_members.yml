@@ -3,81 +3,51 @@
   info: Postdoc, started Sep 2017
   email: yrlee12@yonsei.ac.kr
   number_educ: 3
-  education1: Ph.D., Atmospheric Sciences, Yonsei Univ. (Sep 2012-Aug 2017).
-  education2: M.S., Earth Science Education, Ewha Womans Univ. (Mar 2010-Aug 2012).
-  education3: B.S., Earth Science Education, Ewha Womans Univ. (Mar 2006-Feb 2010).
+  education1: Ph.D., Atmospheric Sciences, Yonsei Univ. (Sep 2012-Aug 2017)
+  education2: M.S., Earth Science Education, Ewha Womans Univ. (Mar 2010-Aug 2012)
+  education3: B.S., Earth Science Education, Ewha Womans Univ. (Mar 2006-Feb 2010)
   
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
-
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
-
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
+- name: Jong-hyuk Lee
+  photo: Jong-hyuk.jpg
+  info: PhD Student (Unified Master/Doctor), started Mar 2013
+  email: jhlee13@yonsei.ac.kr
   number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: B.S., Atmospheric Sciences, Yonsei Univ (Mar 2007-Feb 2013)
 
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
+- name: Dong-Cheol Kim
+  photo: Dong-Cheol.jpg
+  info: PhD Student, started Mar 2017
+  email: mr_cheol@yonsei.ac.kr
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+  education1: M.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2014-Feb 2016)
+  education2: B.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2008-Feb 2014)
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
+- name: Jiseob Kim
+  photo: Jiseob.jpg
+  info: PhD Student (Unified Master/Doctor), started Mar 2016
+  email: ro2003@yonsei.ac.kr
   number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2010-Feb 2016)
+
+- name: Donghyeock Kim
+  photo: Dong_Hyeock.jpg
+  info: PhD Student (Unified Master/Doctor), started Mar 2018
+  email: kimbab1111@yonsei.ac.kr
+  number_educ: 1
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2012-Feb 2018)
+
+- name: Jisu Choi
+  photo: Jisu.jpg
+  info: PhD Student (Unified Master/Doctor), started Mar 2018
+  email: js4975@yonsei.ac.kr
+  number_educ: 1
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2014-Feb 2018)
+
+- name: Daeryong Kim
+  photo: Daeryong.jpg
+  info: Master Student, started Mar 2020
+  email: spellbinder@yonsei.ac.kr
+  number_educ: 0
 
 - name: "This could be you !"
   photo: rock.jpg
