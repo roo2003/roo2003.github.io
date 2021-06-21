@@ -29,11 +29,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 8 %}
-  <h4>Education</h4>
+  <i>Education</i>
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  <h4>Professional Positions</h4>
+  <i>Professional Positions</i>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
   <li> {{ member.education6 }} </li>
