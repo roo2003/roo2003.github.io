@@ -62,6 +62,6 @@ Current research aims to develop precipitation retrieval algorithms for various 
 We are grateful for funding from Yonsei University and [NRF](https://www.nrf.re.kr/eng/index).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Yonsei.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Yonsei.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 140px">
 </figure>
