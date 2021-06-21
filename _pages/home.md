@@ -59,9 +59,8 @@ Current research aims to develop precipitation retrieval algorithms for various 
 
 **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from Yonsei University and [NRF](https://www.nrf.re.kr/eng/index).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Yonsei.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NRF.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Arsl.jpg" style="width: 140px">
 </figure>
