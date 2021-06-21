@@ -1,7 +1,7 @@
 ---
 title: "ARSL"
 layout: homelay
-excerpt: "ALRSL at Yonsei University."
+excerpt: "ARSL at Yonsei University."
 sitemap: false
 permalink: /
 ---
