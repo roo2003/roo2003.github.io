@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Department of Atmospheric Sciences at Yonsei University](https://atmos.yonsei.ac.kr/eng/). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a remote sensing technology group at the [Department of Atmospheric Sciences, Yonsei University](https://atmos.yonsei.ac.kr/eng/). Our research focuses on satellite remote sensing of clouds and precipitation that are key components in the global water and energy cycles.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,7 +24,7 @@ We are a dynamic research group at the [Department of Atmospheric Sciences at Yo
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vapor_TB.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
