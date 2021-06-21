@@ -61,6 +61,9 @@ Current research aims to develop precipitation retrieval algorithms for various 
 
 
 <figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_White.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Arsl.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_White.png" style="width: 20px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Yonsei.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Arsl.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_White.png" style="width: 160px">
 </figure>
