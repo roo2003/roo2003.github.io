@@ -26,7 +26,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
-  Email {{ member.email }}<br>
+  Email [{{ member.email }}](mailto://{{ member.email }})<br>
   Phone {{ member.phone }}, Fax {{ member.fax }}</i>
   <ul style="overflow: hidden">
 
