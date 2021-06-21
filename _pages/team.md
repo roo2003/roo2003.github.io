@@ -28,34 +28,17 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
- 
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
+  {% if member.number_educ == 8 %}
+  <h4>Education</h4>
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <h4>Professional Positions</h4>
   <li> {{ member.education4 }} </li>
   <li> {{ member.education5 }} </li>
+  <li> {{ member.education6 }} </li>
+  <li> {{ member.education7 }} </li>
+  <li> {{ member.education8 }} </li>
   {% endif %}
 
   </ul>
