@@ -222,3 +222,66 @@
     url: https://doi.org/10.1007/978-1-4020-5835-6_9
     display: Levizzani, V., P. Bauer and J. Turk (Eds), Advances in Global Change Research, 28, Springer, Dordrecht, 113-125 (2007)
   highlight: 0
+
+- title: "Surface rain rates from tropical rainfall measuring mission satellite algorithms"
+  image: dummy.png
+  description: ""
+  authors: Chiu, L. and D.-B. Shin, 2006
+  link:
+    url: https://doi.org/10.1007/978-3-540-37293-6_17
+    display: In Earth Science Satellite Remote Sensing, Qu, J., W. Gao, M. Kafatos, R. Murphy, and V. Salomonson (Eds), Springer, Berlin, Heidelberg, 317-336 (2006)
+  highlight: 0
+
+- title: "Parametric rainfall retrieval algorithms for passive microwave radiometers"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B. and C. Kummerow
+  link:
+    url: https://doi.org/10.1175/1520-0450(2003)042<1480:PRRAFP>2.0.CO;2
+    display: J. of Appl. Meteorol., 42(10), 1480-1496 (2003)
+  highlight: 0
+
+- title: "Comparison of the monthly precipitation derived from the TRMM satellite"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., L. S. Chiu and M. Kafatos
+  link:
+    url: https://doi.org/10.1029/2000GL012162
+    display: Geophys. Res. Lett., 28(5), 795-798 (2001)
+  highlight: 0
+
+- title: "The evolution of the Goddard profiling algorithm (GPROF) for rain estimation from passive microwave sensors"
+  image: dummy.png
+  description: ""
+  authors: Kummerow, C., Y. Hong, W. S. Olson, S. Yang, R. F. Adler, J. McCollum, R. Ferraro, G. Petty, D.-B. Shin and T. T. Wilheit
+  link:
+    url: https://doi.org/10.1175/1520-0450(2001)040<1801:TEOTGP>2.0.CO;2
+    display: J. of Appl. Meteorol., 40(11), 1801-1820 (2001)
+  highlight: 0
+
+- title: "A summary of reflectivity profiles from the first year of TRMM radar data"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., K. P. Bowman and G. R. North
+  link:
+    url: https://doi.org/10.1175/1520-0442(2000)013<4072:ASORPF>2.0.CO;2
+    display: J. of Climate, 13(23), 4072-4086 (2000)
+  highlight: 0
+
+- title: "Comparison of freezing-level altitudes from the NCEP Reanalysis with TRMM precipitation radar brightband data"
+  image: dummy.png
+  description: ""
+  authors: Harris, G., K. P. Bowman and D.-B. Shin
+  link:
+    url: https://doi.org/10.1175/1520-0442(2000)013<4137:COFLAF>2.0.CO;2
+    display: J. of Climate, 13(23), 4137-4148 (2000)
+  highlight: 0
+
+- title: "Errors incurred in sampling a cyclostationary Field"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., and G. R. North
+  link:
+    url: https://doi.org/10.1175/1520-0426(2000)017<0656:EIISAC>2.0.CO;2
+    display:  J. of Atmos. and Ocean. Technol., 17(5), 656-664 (2000)
+  highlight: 0
