@@ -1,6 +1,6 @@
 ---
 title: "ARSL - Research"
-layout: textlay
+layout: gridlay
 excerpt: "ARSL -- Research"
 sitemap: false
 permalink: /research/
