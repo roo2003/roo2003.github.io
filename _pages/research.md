@@ -31,7 +31,8 @@ Passive microwave signatures from satellites are based on emission and scatterin
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 50%; float: left; margin: 0px"}
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 50%; float: right; margin: 0px"}<br>
 
-
+ <br>
+ 
  **Retrieval error reduction**
 
  Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The 3-D characteristics can then cause errors in the passive microwave rainfall measurements with the current off-nadir viewing sensors’ specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
