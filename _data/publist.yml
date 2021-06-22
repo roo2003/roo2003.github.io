@@ -1,11 +1,11 @@
 - title: "A Cloud Top-Height Retrieval Algorithm Using Simultaneous Observations from the Himawari-8 and FY-2E Satellites"
-  image: dummy.png
-  description: ""
+  image: Pub_BCI.png
+  description: "We use our atomic-scale scanning tunneling noise"
   authors: Lee, J., D.-B. Shin, C.-Y. Chung, and J. Kim
   link:
     url: https://doi.org/10.3390/rs12121953
     display:  Remote Sens., 12(12), 1953 (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
   image: TiNHigh.png
