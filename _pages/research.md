@@ -13,16 +13,13 @@ Here are some themes and techniques that we currently work on:
 [Passive microwave Remote Sensing of Precipitation](#Passive)
 
 
-## Passive Microwave Remote Sensing of Precipitation
+### Passive Microwave Remote Sensing of Precipitation
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water and microwave signals at scattering channels with higher frequencies are depressed with the amount and types of ice particles above the rain columns. Our researches focus on the developments of rainfall retrieval algorithms and improving the retrieval accuracy.
 
-### Development of a rainfall retrieval algorithm based a parametric approach
+ **Development of a rainfall retrieval algorithm based a parametric approach**
  This methodology is based on simultaneous uses of space-borne radar, cloud resolving models and radiative transfer models for construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed for applications to a variety of passive microwave sensors that exist today and are planned for the future.
-
- **Applications to monitor regional and extreme rainfall events**
-  The emission and scattering signals from microwave sensors are highly sensitive to microphysical properties of hydrometeors in the precipitation systems. Particularly, the extreme weather events with heavy rainfalls are one of the challenging targets for satellite based remote sensing. The main purpose of this research is to develop of a technique to find the best describing microphysics scheme in order to reduce the errors from the assumed microphysical properties under the framework of the parametric rainfall retrieval algorithm.
-  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
-  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive2.jpg){: style="width: 250px; float: left; margin: 0px  10px"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: "100%"; float: none; margin: 0px  0px"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive2.jpg){: style="width: "100%"; float: none; margin: 0px  0px"}
 
 ### Retrieval algorithm for monthly oceanic rainfall
  **Development of a low resolution-based retrieval algorithm**
