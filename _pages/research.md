@@ -28,20 +28,14 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 40%; float: left; margin: 10px"}
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 40%; float: right; margin: 10px"} 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 45%; float: left; margin: 0px"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 45%; float: right; margin: 0px"}<br>
+
+ **Retrieval error reduction**
+
+ Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The 3-D characteristics can then cause errors in the passive microwave rainfall measurements with the current off-nadir viewing sensors’ specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
 
-
-
-
- **Improvement of the microwave emission brightness temperature (METH) algorithm**
-  A statistical emission-based passive microwave retrieval algorithm developed by Wilheit et al (1991) has been used to estimate space/time oceanic rainfall. The algorithm has been applied to Special Sensor Microwave Imager (SSM/I) data taken on board the Defense Meteorological Satellite Program (DMSP) satellites to provide monthly oceanic rainfall over 2.5ox2.5o and 5ox5o latitude-longitude boxes by the Global Precipitation Climatology Project-Polar Satellite Precipitation Data Center (GPCP-PSPDC, URL: http://gpcp-pspdc.gmu.edu) as part of NASA’s contribution to the GPCP.
-
-   **-TRMM boost effect correction: The algorithm has been adapted to the Tropical Rainfall Measuring**
-    Mission (TRMM) Microwave Imager (TMI) data to produce a TRMM Level 3 standard product (3A11) over 5ox5o latitude/longitude boxes. To extend the TRMM mission, the TRMM satellite was boosted to a higher altitude thus changing the rain rate-brightness temperature relation and other rain rate parameters in the estimation procedure. Comparison with the SSM/I product showed a statistically significant difference between the pre and post boost TMI monthly rain rates. Our results showed that the difference can be reconciled in terms of the changes in earth’s incidence angle of TMI, the freezing level height, and the beam-filling correction factor. After the incorporation of these changes for the post boost data, there is no significant difference between the pre and post-boost 3A11 data.
-   **-Transition from SSMI to SSMIS: With the demise of the SSM/I series, we have improved the METH**
-    algorithm for the continuity of oceanic rainfall with SSMIS. With the relaxation of the chi-square requirement the algorithm successfully maintain the equal quality for SSMI and SSMIS. The following figure shows (top) monthly mean rain rates over ocean (60°S–60°N) for SSM/I (dotted) and SSMIS with no correction (SSMIS: solid line) and SSMIS with a Chi-square adjustment (SSMISC:dashed line). (bottom). The differences between SSM/I and SSMIS rainfalls with and without the adjustment.
 
 
 
