@@ -10,7 +10,7 @@ permalink: /research/
 
 Here are some themes and techniques that we currently work on:
 
-[Passive microwave Remote Sensing of Precipitation](#Passive-Microwave-Remote-Sensing-of-Precipitation)  
+[Passive microwave Remote Sensing of Precipitation](###-Passive-Microwave-Remote-Sensing-of-Precipitation)  
 [Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)  
 [Radar Operation and Applications](#Radar)  
 [Cloud Microphysics and Satellite Observation](#Microphysics)  
