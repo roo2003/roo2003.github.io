@@ -24,15 +24,12 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  **Retrieval algorithm for monthly oceanic rainfall**
 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 30%; float: left; margin: 10px"}
  With the accumulated satellite datasets for decades, it is possible that satellite-based data could contribute to sustained climate applications. Level-3 products from microwave sensors for climate applications can be obtained from several algorithms. For examples, the Microwave Emission brightness Temperature Histogram (METH) algorithm produces level-3 rainfalls directly, whereas the TRMM/GPM level-2 algorithms first generates instantaneous rainfalls and then temporal and spatial averaging process leads to level-3 products. The rainfall algorithm developed in this study follows a similar approach to averaging instantaneous rainfalls. However, the algorithm is designed to produce instantaneous rainfalls at an optimal resolution showing reduced non-linearity in brightness temperature (TB)-rain rate(R) relations. It is found that the resolution tends to effectively utilize emission channels whose footprints are relatively larger than those of scattering channels.
+ 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 30%; float: right; margin: 10px"}
 
- This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 50%; float: left; margin: 10px"}
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 50%; float: right; margin: 10px"}<br>
-
-
-
+This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
 
  **Retrieval error reduction**
 
