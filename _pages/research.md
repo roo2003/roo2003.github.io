@@ -9,6 +9,9 @@ permalink: /research/
 # Research
 
 Here are some themes and techniques that we currently work on:
+[Passive microwave Remote Sensing of Precipitation](#Passive Microwave Remote Sensing of Precipitation)
+
+Jump to [staff](#staff) and [alumni](#alumni)
 
 ## Passive Microwave Remote Sensing of Precipitation
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water and microwave signals at scattering channels with higher frequencies are depressed with the amount and types of ice particles above the rain columns. Our researches focus on the developments of rainfall retrieval algorithms and improving the retrieval accuracy.
@@ -38,7 +41,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
     Mission (TRMM) Microwave Imager (TMI) data to produce a TRMM Level 3 standard product (3A11) over 5ox5o latitude/longitude boxes. To extend the TRMM mission, the TRMM satellite was boosted to a higher altitude thus changing the rain rate-brightness temperature relation and other rain rate parameters in the estimation procedure. Comparison with the SSM/I product showed a statistically significant difference between the pre and post boost TMI monthly rain rates. Our results showed that the difference can be reconciled in terms of the changes in earth’s incidence angle of TMI, the freezing level height, and the beam-filling correction factor. After the incorporation of these changes for the post boost data, there is no significant difference between the pre and post-boost 3A11 data.
    **-Transition from SSMI to SSMIS: With the demise of the SSM/I series, we have improved the METH**
     algorithm for the continuity of oceanic rainfall with SSMIS. With the relaxation of the chi-square requirement the algorithm successfully maintain the equal quality for SSMI and SSMIS. The following figure shows (top) monthly mean rain rates over ocean (60°S–60°N) for SSM/I (dotted) and SSMIS with no correction (SSMIS: solid line) and SSMIS with a Chi-square adjustment (SSMISC:dashed line). (bottom). The differences between SSM/I and SSMIS rainfalls with and without the adjustment.
-    
+
 
 
 
