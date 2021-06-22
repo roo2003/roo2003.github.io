@@ -10,8 +10,14 @@ permalink: /research/
 
 Here are some themes and techniques that we currently work on:
 
-[Passive microwave Remote Sensing of Precipitation](#Passive)
-[Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)
+[Passive microwave Remote Sensing of Precipitation](#Passive)  
+[Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)  
+[Radar Operation and Applications](#Radar)
+[Cloud Microphysics and Satellite Observation](#Microphysics)
+[Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Assimilation)
+[Water Cycle Balance and Trend](#Cycle)
+
+<hr/>
 
 ### Passive Microwave Remote Sensing of Precipitation
 
@@ -37,6 +43,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
 
+<hr/>
 
 ### Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm
 
@@ -48,36 +55,65 @@ The second Korean geostationary satellite (GEO-KOMPSAT-2A) is scheduled for laun
 
  **Quantitative Precipitation Nowcasts (QPN) algorithms**
 
- The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GEO-KOMPSAT-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitation fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hourly rainfall. In addition, the extrapolated precipitation fields at 15-min intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period.  The QPN products can be classified as extrapolated features associated with precipitation.
+ The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GEO-KOMPSAT-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitation fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hourly rainfall. In addition, the extrapolated precipitation fields at 15-min intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period.  The QPN products can be classified as extrapolated features associated with precipitation.<br>
 
+<hr/>
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+### Radar Operation and Applications
 
+ **Development of a KMA operational merging algorithm for complete radar coverage**
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
+ Our team is currently working for the radar center of KMA. The works include the development of the algorithm to combine radar, satellite and NWP model for precipitation estimation. The algorithm is now being tested for an operational use to produce complete coverage by ground-based radar in case that the coverage is hampered by terrain blockage and beam-related errors.
 
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
+ This research develops a method merging precipitation estimates from various sensors and models with optimally determined weights. The merging method determines the optimal weights in terms of the relative magnitudes of the root-mean-square errors (RMSE) between the reference sensor observation and the individual precipitation dataset. The merged precipitation fields have been created outside of the ground-based radar observing areas with the interpolated precipitation with the adjacent radar observations, satellite-based precipitation estimates and the short-term forecast model data.  Ongoing works include improving the short-term forecast model based on an optimal estimation with geostationary and LEO satellite data.
 
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ *Figure 1. Merging procedure for the combining algorithm*
 
-We also detected and investigated a quite particular YSR state in the same material.
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ *Figure 2. Precipitation distributions observed by the Jindo radar for four precipitation cases (the first column), same as Fig. 6, but focused on the surrounding of the gap areas (black line box). Precipitation estimations over the black boxes from the three merging experiments employing the optimal weights determined by the original radar data and the AWS data, and equal weights (1/2) are illustrated in the rest of the columns, respectively*
 
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+ **Operation of a polarimetric radar**
 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar3.jpg){: style="width: 40%; float: left; margin: 1%"}
+ A polarimetric X-band radar will be installed by the end of Feb. 2017 at the Science hall of Yonsei University. The radar will be operated in collaboration with KICT (Korea Institute of Civil Engineering and Building Technology).  Our group will first focus on joint works with KICT and Korea University for monitoring flash floods in the high population city, understanding microphysical properties of regional weather systems, and precipitation measurements from mulit-sensors.
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from quantum gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+<hr/>
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
+### Cloud Microphysics and Satellite Observation
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
+Clouds and precipitation processes in the numerical weather forecasting model have some degree of uncertainty with various microphysics parameterization schemes. Therefore, it is important to apply microphysics schemes in accordance with their characteristics for rainfall retrievals. Using emission and scattering signals from hydrometeors in the precipitation system, the simulated results from numerical models can be evaluated by comparing them after calculating brightness temperatures to the observed data from passive microwave sensors. The research develops a methodology for the comparison of numerical model and satellite observations and used the methodology to understanding, evaluate and improve the microphysics schemes in the cloud resolving models.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/microphysics1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+![]({{ site.url }}{{ site.baseurl }}/images/respic/microphysics2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+
+<hr/>
+
+### Utilization of Infrared and Microwave Data for Satellite Data Assimilation
+
+ **Bias correction**
+
+ The satellite data usually have systematic errors and these errors (or biases) can degrade the quality of the analysis field and ultimately forecast field. The observation biases must be corrected before satellite data assimilation. We have studied to improve the bias correction scheme of the Advanced Microwave Sounding Unit-A (AMSU-A), which have operationally applied in Korea Meteorological Administration (KMA).
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/assimilation1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ *Figure 1. Examples of scan bias correction (NOAA-19 & MetOP-A)*  
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/assimilation2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ *Figure 2. Examples of air mass correction (NOAA-19 & MetOP-A)*   
+
+ **1d-var applications**
+
+ The one-dimensional variational analysis (1D-Var) can determine the most probable atmospheric variables at the specific location given the observation and first-guess of atmosphere. We have performed the 1D-Var analysis to retrieve temperature profiles using the Atmospheric Infrared Sounder (AIRS).
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/assimilation3.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ *Figure 1. An example of temperature profile retrievals*  
+
+<hr/>
+
+### Water Cycle Balance and Trend
+
+ **Global and regional atmospheric water balance closure problems and trends**
+
+ The atmospheric water cycle is one of most important components of the global water cycle. Large amounts of water vapor that are evaporated from the ocean are transported to the continents through the atmosphere. The transported water vapor is converted into precipitation that provides vital water for living things on Earth. Precipitation and evaporation over the oceans change the sea surface salinity and help to drive the ocean thermohaline circulation. Changes in the phase of water in the atmosphere involve latent heat exchanges. Latent heat released by condensation is one of the major energy sources driving the general circulation of the atmosphere. Knowledge of the atmospheric water cycle is therefore essential in order to manage water resources and to understand the Earth’s weather and climate. Our research uses the column integrated atmospheric water balance over the ocean using various satellite-based and merged datasets and focuses on the closures and climatological trends of the regional unbalances.
+
 
 ### ... and more.
