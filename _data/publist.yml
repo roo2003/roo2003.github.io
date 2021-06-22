@@ -17,13 +17,13 @@
   highlight: 0
 
 - title: "Passive Microwave Precipitation Retrieval Algorithm With A Priori Databases of Various Cloud Microphysics Schemes: Tropical Cyclone Applications"
-  image: dummy.png
-  description: ""
+  image: Pub_Rain.png
+  description: "Blah Blah Blah"
   authors: Choi, Y., D.-B. Shin, J. Kim, and M. joh
   link:
     url: https://doi.org/10.1109/TGRS.2019.2948262
     display: IEEE Trans. on Geosci. and Remote Sens., 58(4), 2366-2382 (2019)
-  highlight: 0
+  highlight: 1
 
 - title: "Classification of precipitating clouds using satellite infrared observations and its implications for rainfall estimation"
   image: dummy.png
