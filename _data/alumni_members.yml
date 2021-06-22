@@ -1,6 +1,6 @@
 - name: Sukbum Hong
   photo: Suk-Bum.jpg
-  duration: 2014 - 2016
+  duration: In ARSL 2014 to 2016, now Research Professor at Kyung Hee Univ.
   info: Postdoc
   email: sbhong@yonsei.ac.kr
   number_educ: 0
@@ -9,15 +9,15 @@
   education3:
   education4:
 
-- name: Irene Battisti
-  photo: irene.jpg
+- name: Ju-Hye Kim
+  photo: juhye.jpg
   info: PhD student
-  duration: In the Allan Lab Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  duration: In ARSL Sep 2007 to Feb 2014, now Postdoc Fellow &#8545 at NCAR
+  email: 
+  number_educ: 2
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2000-Feb 2004)
+  education2: M.S., Atmospheric Sciences, Yonsei Univ. (Mar 2004-Feb 2006)
+  education3: 
 
 - name: Doohee Cho
   photo: Doohee2.jpg
