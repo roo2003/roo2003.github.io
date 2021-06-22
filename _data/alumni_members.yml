@@ -9,7 +9,7 @@
   education3:
   education4:
 
-- name: Ju-Hye Kim
+- name: Juhye Kim
   photo: juhye.jpg
   info: PhD student
   duration: In ARSL Sep 2007 to Feb 2014, now Postdoc Fellow &#8545; at NCAR, USA.
@@ -19,35 +19,92 @@
   education2: M.S., Atmospheric Sciences, Yonsei Univ. (Mar 2004-Feb 2006)
   education3: 
 
-- name: Doohee Cho
-  photo: Doohee2.jpg
-  info: Postdoc
-  duration: In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University
-  email: cho@physics.leidenuniv.nl
-  number_educ: 4
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc POSTECH with <a href="http://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a>
-  education4: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+- name: Jihye Kim
+  photo: jihye.jpg
+  info: Master and PhD student
+  duration: In ARSL Mar 2008 to Aug 2018,
+  email: lovelyjai@yonsei.ac.kr
+  number_educ: 3
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2006-Feb 2008)
+  education2: M.S., Atmospheric Sciences, Yonsei Univ. (Mar 2008-Feb 2010)
+  education3: Ph.D., Atmospheric Sciences, Yonsei Univ. (Mar 2012-Aug 2018)
+  education4: 
 
-- name: Maarten Leeuwenhoek
-  photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
-  email: M.Leeuwenhoek@tudelft.nl
-  duration: In the Allan Lab December 2015 to February 2020, now design engineer at ASML
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Freek Groenewoud
-  photo: Freek.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: Groenewoud@physics.leidenuniv.nl
+- name: Yeji Choi
+  photo: yeji.png
+  info: Unified Master/PhD Student
+  duration: In ARSL Sep 2010 to Aug 2018, now Researcher in SI Analytics.
+  email: yj0108@yonsei.ac.kr
   number_educ: 2
-  duration: In the Allan Lab 2018 - 2020
-  education1: Leidse Instrumentmaker School
-  education2: Mechanical Engineer , Hogeschool  Delft
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2005-Aug 2007)
+  education2: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Sep 2010-Aug 2018)
   education3:
   education4:
+
+- name: Domwon So
+  photo: damwon.jpg
+  info: Unified Master/PhD Student
+  duration: In ARSL Mar 2012 to Aug 2018,
+  email: dws328@yonsei.ac.kr
+  number_educ: 2
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2008-Feb 2012)
+  education2: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Mar 2012-Aug 2018)
+  education3:
+
+- name: Jieun Cha
+  photo: jieun.jpg
+  info: Master Student
+  duration: In ARSL Mar 2008 to Aug 2010
+  email: jecha@yonsei.ac.kr
+  number_educ: 2
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2003-Feb 2008)
+  education2: M.S., Atmospheric Sciences, Yonsei Univ. (Mar 2018-Aug 2010)
+  education3:
+
+- name: Sungwoo Kim
+  photo: sungwoo.jpg
+  info: Master Student
+  duration: In ARSL Mar 2009 to Feb 2011
+  email: kswkim@yonsei.ac.kr
+  number_educ: 0
+  education1: 
+
+- name: Hea-Lim Kim
+  photo: healim.jpg
+  info: Master Student
+  duration: In ARSL Mar 2011 to Feb 2013
+  email: hlk@yonsei.ac.kr
+  number_educ: 0
+  education1: 
+
+- name: Hyun-Jung Lee
+  photo: hyunjung.jpg
+  info: Master Student
+  duration: In ARSL Sep 2011 to Aug 2013
+  email: blss@yonsei.ac.kr
+  number_educ: 0
+  education1: 
+
+- name: Subok Kim
+  photo: subok.jpg
+  info: Master Student
+  duration: In ARSL Mar 2013 to Feb 2015
+  email: adarm4@yonsei.ac.kr
+  number_educ: 0
+  education1: 
+
+- name: Hyunju Ban
+  photo: hyunju.jpg
+  info: Master Student
+  duration: In ARSL Mar 2014 to Feb 2016
+  email: hjban@yonsei.ac.kr
+  number_educ: 0
+  education1: 
+
+- name: Heon Gu
+  photo: heongu.jpg
+  info: Master Student
+  duration: In ARSL Mar 2017 to Feb 2019
+  email: ghoney0204@yonsei.ac.kr
+  number_educ: 0
+  education1: 
