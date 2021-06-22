@@ -9,9 +9,9 @@ permalink: /research/
 # Research
 
 Here are some themes and techniques that we currently work on:
-[Passive microwave Remote Sensing of Precipitation](#Passive Microwave Remote Sensing of Precipitation)
 
-Jump to [staff](#staff) and [alumni](#alumni)
+[Passive microwave Remote Sensing of Precipitation](#Passive)
+
 
 ## Passive Microwave Remote Sensing of Precipitation
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water and microwave signals at scattering channels with higher frequencies are depressed with the amount and types of ice particles above the rain columns. Our researches focus on the developments of rainfall retrieval algorithms and improving the retrieval accuracy.
