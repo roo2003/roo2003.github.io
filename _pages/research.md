@@ -28,8 +28,8 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 45%; float: left; margin: 10px"}
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 45%; float: right; margin: 10px"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 45%; float: left; margin: 5%"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 45%; float: right; margin: 5%"}
 
 
 **Retrieval error reduction**
