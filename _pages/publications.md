@@ -9,6 +9,7 @@ permalink: /publications/
 
 # Publications
 
+## Group highlights
 (For a full list of publications and patents see [below](#full-list-of-publications))
 
 {% assign number_printed = 0 %}

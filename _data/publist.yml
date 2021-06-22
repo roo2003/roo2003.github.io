@@ -1,5 +1,5 @@
 - title: "A Cloud Top-Height Retrieval Algorithm Using Simultaneous Observations from the Himawari-8 and FY-2E Satellites"
-  image: dummy.png
+  image: Pub_CTH2.png
   description: "Blah Blah Blah"
   authors: Lee, J., D.-B. Shin, C.-Y. Chung, and J. Kim
   link:
@@ -27,7 +27,7 @@
 
 - title: "Classification of precipitating clouds using satellite infrared observations and its implications for rainfall estimation"
   image: dummy.png
-  description:
+  description: ""
   authors: So, D. and D.-B. Shin
   link:
     url: https://doi.org/10.1002/qj.3288
@@ -36,9 +36,189 @@
 
 - title: "Assessment of WRF microphysics schemes in simulation of extreme precipitation events based on microwave radiative signatures"
   image: dummy.png
-  description:
+  description: ""
   authors: Choi, Y., D.-B. Shin, and M. Joh
   link:
     url: https://doi.org/10.1080/01431161.2018.1488288
     display: Int. J. of Remote Sens., 39(23), 8527-8551 (2018)
+  highlight: 0
+
+- title: "Improved detection of low stratus and fog at dawn from dual geostationary (COMS and FY-2D) satellites"
+  image: dummy.png
+  description: ""
+  authors: Yoo, J.-M., G.-H. Choo, K.-H. Lee, D. L. Wu, J.-H. Yang , J.-D. Park, Y.-S. Choi, D.-B. Shin, J.-H. Jeong, J.-M. Yoo
+  link:
+    url: https://doi.org/10.1016/j.rse.2018.04.019
+    display: Remote Sens. Environ., 211, 292-306 (2018)
+  highlight: 0
+
+- title: "The Global Precipitation Climatology Project (GPCP) Monthly Analysis (New Version 2.3) and a Review of 2017 Global Precipitation"
+  image: dummy.png
+  description: ""
+  authors: Adler, R. F., M. R. P. Sapiano, G. J. Huffman, J.-J. Wang, G. Gu, D. Bolvin, L. Chiu, U. Schneider, A. Becker, E. Nelkin, P. Xie , R. Ferraro , and D.-B. Shin
+  link:
+    url: https://doi.org/10.1016/j.rse.2018.04.019
+    display: Atmos., 9(4), 138 (2018)
+  highlight: 0
+
+- title: "Development of prototype algorithms for quantitative precipitation nowcasts from AMI onboard the GEO-KOMPSAT-2A satellite"
+  image: dummy.png
+  description: ""
+  authors: Hong, S., D.-B. Shin, B. Park, and D. So
+  link:
+    url: https://doi.org/10.1109/TGRS.2016.2596293
+    display: IEEE Trans. on Geosci. and Remote Sens., 54(12), 7149-7156 (2016)
+  highlight: 0
+
+- title: "Effects of the three-dimensional hydrometeor distributions of precipitating clouds on passive microwave rainfall estimations"
+  image: dummy.png
+  description: ""
+  authors: Kim, S.-W., D.-B. Shin, and Y. Choi
+  link:
+    url: https://doi.org/10.1109/TGRS.2015.2490743
+    display: IEEE Trans. on Geosci. and Remote Sens., 54(4), 1957-1966 (2016)
+  highlight: 0
+
+- title: "Precipitation estimation over radar gap areas based on satellite and adjacent radar observations"
+  image: dummy.png
+  description: ""
+  authors: Lee, Y.-R., D.-B. Shin, J.-H. Kim, and H.-S. Park
+  link:
+    url: https://doi.org/10.5194/amt-8-719-2015
+    display: Atmos. Meas. Techn., 8(2), 719-728 (2015)
+  highlight: 0
+
+- title: "New indices for wet scavenging of air pollutants (O3, CO, NO2, SO2, and PM10) by summertime rain"
+  image: dummy.png
+  description: ""
+  authors: Yoo, J.-M., Y.-R. Lee, D. Kim, S.-M. Oh, M.-J. Jeong, W. R. Stockwell, P. K. Kundu, S.-M. Oh, D.-B. Shin, and S.-J. Lee
+  link:
+    url: https://doi.org/10.1016/j.atmosenv.2013.10.022
+    display: Atmos. Environ., 82, 226-237 (2014)
+  highlight: 0
+
+- title: "Impacts of a-priori databases using six WRF microphysics schemes on passive microwave rainfall retrievals"
+  image: dummy.png
+  description: ""
+  authors: Kim, J.-H., D.-B. Shin, and C. Kummerow
+  link:
+    url: https://doi.org/10.1175/JTECH-D-12-00261.1
+    display: J. of Atmos. and Ocean. Technol., 30(10), 2367-2381 (2013)
+  highlight: 0 
+
+- title: "Atmospheric water balance over oceanic regions as estimated from satellite, merged, and reanalysis data"
+  image: dummy.png
+  description: ""
+  authors: Park, H.-J., D.-B. Shin, and J.-M. Yoo
+  link:
+    url: https://doi.org/10.1002/jgrd.50414
+    display: Atmos., 118(9), 3495-3505 (2013)
+  highlight: 0 
+
+- title: "Comparison between MODIS and AIRS/AMSU satellite-derived surface skin temperatures"
+  image: dummy.png
+  description: ""
+  authors: Lee, Y.-R., J.-M. Yoo, M.-J. Jeong, Y.-I. Won, T. Hearty, and D.-B. Shin
+  link:
+    url: https://doi.org/10.5194/amt-6-445-2013
+    display: Atmos. Meas. Techn., 6(2), 445-455 (2013)
+  highlight: 0 
+
+- title: "Intensity of climate variability derived from the satellite and MERRA reanalysis temperatures: AO, ENSO, and QBO"
+  image: dummy.png
+  description: ""
+  authors: Yoo, J.-M., Y.-I. Won, M.-J. Jeong, K.-M. Kim, D.-B. Shin, Y.-R. Lee, and Y.-J. Cho
+  link:
+    url: https://doi.org/10.1016/j.jastp.2013.01.002
+    display: J. of Atmos. and Solar-Terr. Phys., 95, 15-27 (2013)
+  highlight: 0 
+
+- title: "Climate-Scale Oceanic Rainfall Based on Passive Microwave Radiometry. In Satellite-based Applications on Climate Change"
+  image: dummy.png
+  description: ""
+  authors: Chiu, L. S., S. Gao, and D.-B. Shin
+  link:
+    url: https://doi.org/10.1007/978-94-007-5872-8_15
+    display: Qu, J., A. Powell, M.V.K. Sivakumar (Eds), Springer, Dordrecht, 225-245 (2013)
+  highlight: 0
+
+- title: "Impact of proxy variables of the rain column height on monthly oceanic rainfall estimations from passive microwave sensors"
+  image: dummy.png
+  description: ""
+  authors: Kim, J.-H, D.-B. Shin and K.-W. Jin
+  link:
+    url: https://doi.org/10.1080/01431161.2011.631952
+    display: Int. J. of Remote Sens., 33(12), 3693 - 3712 (2012)
+  highlight: 0
+
+- title: "Temperature trends in the skin/surface, mid-troposphere and low stratosphere near Korea from satellite and ground measurements"
+  image: dummy.png
+  description: ""
+  authors: Yoo. J.-M., Y.-I. Won, Y.-J. Cho, M.-J. Jeong, D.-B. Shin, S.-J. Lee, Y.-R. Lee, S.-M. Oh, and S.J. Ban
+  link:
+    url: https://doi.org/10.1080/01431161.2011.631952
+    display: Asia Pacific J. of Atmos. Sci., 47(5), 439-455 (2011)
+  highlight: 0
+
+- title: "Agreement between monthly precipitation estimates from TRMM satellite, NCEP reanalysis, and merged gauge-satellite analysis"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., J.-H. Kim, and H.-J. Park
+  link:
+    url: https://doi.org/10.1029/2010JD015483
+    display: "J. of Geophys. Res.: Atmos., 116, D16105 (2011)"
+  highlight: 0
+
+- title: "Spatial information of high frequency brightness temperatures for passive microwave rainfall retrievals"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B.
+  link:
+    url: https://doi.org/10.1080/01431161.2010.498451
+    display: Int. J. of Remote Sens., 32(19), 5347-5363 (2011)
+  highlight: 0
+
+- title: "Improved fog detection from satellite in the presence of clouds"
+  image: dummy.png
+  description: ""
+  authors: Yoo, J.-M., M.-J. Jeong,, Y.-M. Hur, and D.-B. Shin
+  link:
+    url: https://doi.org/10.1007/s13143-010-0004-5
+    display: Asia Pacific J. of Atmos. Sci., 46(1), 29-40 (2010)
+  highlight: 0
+
+- title: "Variability of passive microwave radiometric signatures at different spatial resolutions and its implication for rainfall estimation"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., K. P. Bowman, J.-M. Yoo and L. S. Chiu
+  link:
+    url: https://doi.org.10.1109/TGRS.2008.2007740
+    display: IEEE Trans. on Geosci. and Remote Sens., 47(6), 1575-1584 (2009)
+  highlight: 0
+
+- title: "Effects of atmospheric water and surface wind on passive microwave retrievals of sea ice concentration: a simulation study"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B., L. S. Chiu and P. Clemente-Colon
+  link:
+    url: https://doi.org/10.1080/01431160801978999
+    display: Int. J. of Remote Sens., 29(19), 5717-5731 (2008)
+  highlight: 0
+
+- title: "Effects of TRMM boost on oceanic rainfall estimates based on microwave emission brightness temperature histograms (METH)"
+  image: dummy.png
+  description: ""
+  authors: Shin, D.-B. and L. S. Chiu
+  link:
+    url: https://doi.org/10.1175/2008JTECHA1093.1
+    display: J. of Atmos. and Ocean. Technol., 25(10), 1888-1893 (2008)
+  highlight: 0
+
+- title: "3D effects in microwave radiative transport inside precipitating clouds: modeling and applications. In Measuring Precipitation from Space: EURAINSAT and the future"
+  image: dummy.png
+  description: ""
+  authors: Battaglia, A., F. Prodi, F. Porcu and D.-B. Shin
+  link:
+    url: https://doi.org/10.1007/978-1-4020-5835-6_9
+    display: Levizzani, V., P. Bauer and J. Turk (Eds), Advances in Global Change Research, 28, Springer, Dordrecht, 113-125 (2007)
   highlight: 0
