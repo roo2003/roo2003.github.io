@@ -11,9 +11,10 @@ permalink: /research/
 Here are some themes and techniques that we currently work on:
 
 [Passive microwave Remote Sensing of Precipitation](#Passive)
-
+[Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)
 
 ### Passive Microwave Remote Sensing of Precipitation
+
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water and microwave signals at scattering channels with higher frequencies are depressed with the amount and types of ice particles above the rain columns. Our researches focus on the developments of rainfall retrieval algorithms and improving the retrieval accuracy.
 
  **Development of a rainfall retrieval algorithm based a parametric approach**
@@ -31,14 +32,26 @@ Passive microwave signatures from satellites are based on emission and scatterin
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive3.jpg){: style="width: 45%; float: left; margin: 1%"}
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 45%; float: right; margin: 1%"}<br>
 
- &nbsp;
+ &nbsp;  
+
  **Retrieval error reduction**
 
  Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The 3-D characteristics can then cause errors in the passive microwave rainfall measurements with the current off-nadir viewing sensors’ specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 20px"}<br>
 
 
+### Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm
 
+The second Korean geostationary satellite (GEO-KOMPSAT-2A) is scheduled for launch in May 2018. Our team leads the operational and research products for clouds and precipitation.
+
+ **An operational rainfall rate (RR) algorithm**
+
+ An operational rainfall rate algorithm has been developed for the Advanced Meteorological Imager (AMI) onboard the GEO-KOMPSAT-2A (GK-2A). The AMI rainfall rate algorithm uses the a-priori information including the microwave rainfall data from the low-earth orbiting satellites and infrared (IR) brightness temperatures from geostationary satellites. The algorithm may better perform with a variety of a-priori information describing all possible precipitating systems. In addition, separation of physically different precipitating systems likely to improve the accuracy of retrieval process. However, it has been well known that such the separation can be hardly achieved based on the measurements of cloud top temperatures. This algorithm tries to utilize the radiative characteristics observed differently for different wavelengths in IR spectral regions. The characteristics include the different emissivity as a function of wavelength and cloud thickness. Using the brightness temperature differences (BTDs) between IR channels the algorithm discriminates three types of precipitating clouds: shallow, not-shallow-tall and not-shallow-taller types. The separation of three types of precipitating clouds may help the accuracy of rainfall estimates for each type of clouds. In addition to the separation of cloud types in the databases, the algorithm also uses databases classified by latitudinal bands. The bands are separated with four latitudinal zones. The separation of database based on latitudes may have an effect of distinguishing the cloud types that can occur regionally. Once the a-priori databases are constructed, the algorithm inverts the AMI IR brightness temperatures to the surface rainfall rate based on a Bayesian approach. The Bayesian approach has advantages on using multi-channel brightness temperatures simultaneously and utilizing the probability of rainfall reserved in the a-priori databases. As a proxy for the AMI this algorithm first tests the Advanced Himawari Imager (AHI) data. Retrieval results and the status and plan of the algorithm development will be introduced.
+
+ **Quantitative Precipitation Nowcasts (QPN) algorithms**
+
+ The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GEO-KOMPSAT-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitation fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hourly rainfall. In addition, the extrapolated precipitation fields at 15-min intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period.  The QPN products can be classified as extrapolated features associated with precipitation.
 
 
 **Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
