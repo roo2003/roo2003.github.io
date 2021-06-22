@@ -12,10 +12,10 @@ Here are some themes and techniques that we currently work on:
 
 [Passive microwave Remote Sensing of Precipitation](#Passive)  
 [Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)  
-[Radar Operation and Applications](#Radar)
-[Cloud Microphysics and Satellite Observation](#Microphysics)
-[Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Assimilation)
-[Water Cycle Balance and Trend](#Cycle)
+[Radar Operation and Applications](#Radar)  
+[Cloud Microphysics and Satellite Observation](#Microphysics)  
+[Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Assimilation)  
+[Water Cycle Balance and Trend](#Cycle)  
 
 <hr/>
 
@@ -67,7 +67,7 @@ The second Korean geostationary satellite (GEO-KOMPSAT-2A) is scheduled for laun
 
  This research develops a method merging precipitation estimates from various sensors and models with optimally determined weights. The merging method determines the optimal weights in terms of the relative magnitudes of the root-mean-square errors (RMSE) between the reference sensor observation and the individual precipitation dataset. The merged precipitation fields have been created outside of the ground-based radar observing areas with the interpolated precipitation with the adjacent radar observations, satellite-based precipitation estimates and the short-term forecast model data.  Ongoing works include improving the short-term forecast model based on an optimal estimation with geostationary and LEO satellite data.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar1.jpg){: style="width: 60%; float: center; margin: 2%"}<br>
  *Figure 1. Merging procedure for the combining algorithm*
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
@@ -75,7 +75,6 @@ The second Korean geostationary satellite (GEO-KOMPSAT-2A) is scheduled for laun
 
  **Operation of a polarimetric radar**
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/radar3.jpg){: style="width: 40%; float: left; margin: 1%"}
  A polarimetric X-band radar will be installed by the end of Feb. 2017 at the Science hall of Yonsei University. The radar will be operated in collaboration with KICT (Korea Institute of Civil Engineering and Building Technology).  Our group will first focus on joint works with KICT and Korea University for monitoring flash floods in the high population city, understanding microphysical properties of regional weather systems, and precipitation measurements from mulit-sensors.
 
 <hr/>
@@ -104,7 +103,7 @@ Clouds and precipitation processes in the numerical weather forecasting model ha
 
  The one-dimensional variational analysis (1D-Var) can determine the most probable atmospheric variables at the specific location given the observation and first-guess of atmosphere. We have performed the 1D-Var analysis to retrieve temperature profiles using the Atmospheric Infrared Sounder (AIRS).
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/assimilation3.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/assimilation3.jpg){: style="width: 50%; float: center; margin: 2%"}<br>
  *Figure 1. An example of temperature profile retrievals*  
 
 <hr/>
