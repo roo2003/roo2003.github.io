@@ -21,7 +21,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  This methodology is based on simultaneous uses of space-borne radar, cloud resolving models and radiative transfer models for construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed for applications to a variety of passive microwave sensors that exist today and are planned for the future.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 5%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
 
  **Retrieval algorithm for monthly oceanic rainfall**
 
@@ -29,13 +29,13 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive2.jpg){: style="width: 70%; float: center; margin: 5%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
 
  **Retrieval error reduction**
 
  Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The 3-D characteristics can then cause errors in the passive microwave rainfall measurements with the current off-nadir viewing sensors’ specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 5%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
 
 
 ### Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm
