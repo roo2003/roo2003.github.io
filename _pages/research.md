@@ -10,12 +10,12 @@ permalink: /research/
 
 Here are some themes and techniques that we currently work on:
 
-[Passive microwave Remote Sensing of Precipitation](###-Passive-Microwave-Remote-Sensing-of-Precipitation)  
-[Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#GK2A)  
-[Radar Operation and Applications](#Radar)  
-[Cloud Microphysics and Satellite Observation](#Microphysics)  
-[Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Assimilation)  
-[Water Cycle Balance and Trend](#Cycle)  
+- [Passive microwave Remote Sensing of Precipitation](#Passive-Microwave-Remote-Sensing-of-Precipitation)  
+- [Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#Development-of-GEO-KOMPSAT-2A-Operational-Rainfall-and-QPN-Algorithm)  
+- [Radar Operation and Applications](#Radar-Operation-and-Applications)  
+- [Cloud Microphysics and Satellite Observation](#Cloud-Microphysics-and-Satellite-Observation)  
+- [Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Utilization-of-Infrared-and-Microwave-Data-for-Satellite-Data-Assimilation)  
+- [Water Cycle Balance and Trend](#Water-Cycle-Balance-and-Trend)  
 
 <hr/>
 
