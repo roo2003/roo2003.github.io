@@ -20,7 +20,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
  This methodology is based on simultaneous uses of space-borne radar, cloud resolving models and radiative transfer models for construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed for applications to a variety of passive microwave sensors that exist today and are planned for the future.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: "50%"; float: none; margin: 30px  30px"}
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 250px; float: none; margin: 0px  0px"}
 
 ### Retrieval algorithm for monthly oceanic rainfall
  **Development of a low resolution-based retrieval algorithm**
