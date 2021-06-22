@@ -33,6 +33,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive4.jpg){: style="width: 45%; float: right; margin: 1%"}<br>
 
  &nbsp;  
+ &nbsp;  
 
  **Retrieval error reduction**
 
