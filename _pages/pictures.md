@@ -34,5 +34,5 @@ permalink: /pictures/
 ## 2016
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pic_2016_2.png" width="80%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pic_2016.png" width="80%">
 </figure>
