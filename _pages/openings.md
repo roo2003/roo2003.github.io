@@ -23,5 +23,5 @@ If you are interested in pursuing a Master's degree in our lab, contact me (or a
 If you are a student at Yonsei University looking for an internship program, contact me by [email](mailto:dbshin@yonsei.ac.kr). Sometimes, we take interns if we get exceptional applicants (this usually means very good grades in the related subjects).
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ARSL-EGU.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ARSL-EGU.jpg" width="95%">
 </figure>
