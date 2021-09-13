@@ -27,13 +27,13 @@ We are a remote sensing technology group at the [Department of Atmospheric Scien
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/vapor_TB.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PMRR.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/GK2A.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CTH.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PMRR.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
