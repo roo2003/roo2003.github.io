@@ -51,7 +51,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://arsl.yonsei.ac.kr/vacancies/">openings</a> for more info
   email: dbshin@yonsei.ac.kr
   number_educ: 0
   education1:
