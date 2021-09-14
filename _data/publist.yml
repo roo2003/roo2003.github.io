@@ -9,16 +9,16 @@
 
 - title: "A Comparative Study of Rain/No-Rain classification Results Using PCT From GPM/GMI Data by Precipitation Type"
   image: dummy.png
-  description: ""
+  description: "This study investigates differences in the accuracy of the PCT-based RNC method induced by various precipitation types and proposes a new consideration for researchers to employ it in the correct manner."
   authors: Kim, J. and D.-B. Shin
   link:
     url: https://doi.org/10.1109/TGRS.2020.2988597
     display: IEEE Trans. on Geosci. and Remote Sens., 58(12), 8541-8554 (2020)
-  highlight: 0
+  highlight: 1
 
 - title: "Passive Microwave Precipitation Retrieval Algorithm With A Priori Databases of Various Cloud Microphysics Schemes: Tropical Cyclone Applications"
   image: Pub_Rain.jpg
-  description: "Blah Blah Blah"
+  description: "We developed a prototype precipitation retrieval algorithm that incorporates various cloud microphysics schemes in it a priori knowledge."
   authors: Choi, Y., D.-B. Shin, J. Kim, and M. joh
   link:
     url: https://doi.org/10.1109/TGRS.2019.2948262
@@ -27,12 +27,12 @@
 
 - title: "Classification of precipitating clouds using satellite infrared observations and its implications for rainfall estimation"
   image: dummy.png
-  description: ""
+  description: "For rainfall estimation from satellite infrared (IR) radiometors, we classifies precipitating clouds into five cloud group using BTDs and BTD difference."
   authors: So, D. and D.-B. Shin
   link:
     url: https://doi.org/10.1002/qj.3288
     display: Quart. J. of the Roy. Meteorol. Soc., 114(S1), 133-144 (2018)
-  highlight: 0
+  highlight: 1
 
 - title: "Assessment of WRF microphysics schemes in simulation of extreme precipitation events based on microwave radiative signatures"
   image: dummy.png
