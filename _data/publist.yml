@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "A Comparative Study of Rain/No-Rain classification Results Using PCT From GPM/GMI Data by Precipitation Type"
-  image: dummy.png
+  image: Pub_PCT.jpg
   description: "This study investigates differences in the accuracy of the PCT-based RNC method induced by various precipitation types and proposes a new consideration for researchers to employ it in the correct manner."
   authors: Kim, J. and D.-B. Shin
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Classification of precipitating clouds using satellite infrared observations and its implications for rainfall estimation"
-  image: dummy.png
+  image: Pub_IR.jpg
   description: "For rainfall estimation from satellite infrared (IR) radiometors, we classifies precipitating clouds into five cloud group using BTDs and BTD difference."
   authors: So, D. and D.-B. Shin
   link:
