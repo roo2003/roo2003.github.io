@@ -23,7 +23,7 @@ Jump to [staff](#staff) and [alumni](#alumni)
 {% endif %}
 
 <div class="col-sm-13 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>
   Email [{{ member.email }}](mailto:{{ member.email }})<br>
