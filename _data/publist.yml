@@ -1,3 +1,12 @@
+- title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
+  image: Pub_CTH.jpg
+  description: "..."
+  authors: Kim, J., D.-B. Shin, and D. Kim
+  link:
+    url: https://doi.org/10.1109/TGRS.2022.3148404
+    display: IEEE Trans. on Geosci. and Remote Sens. (Early Access)
+  highlight: 0
+
 - title: "Algorithm for Improved Stereoscopic Cloud-Top Height Retrieval Based on Visible and Infrared Bands for Himawari-8 and FY-4A"
   image: Pub_CTH.jpg
   description: "We introduce a dual-GEO CTH algorithm based on the parallax, which is the difference in the apparent position of clouds observed from two GEO satellites simultaneously."
