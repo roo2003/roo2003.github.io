@@ -43,12 +43,6 @@
   number_educ: 1
   education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2014-Feb 2018)
 
-- name: Daeryong Kim
-  photo: Daeryong.jpg
-  info: Master Student, started Mar 2020
-  email: spellbinder@yonsei.ac.kr
-  number_educ: 0
-
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="https://arsl.yonsei.ac.kr/vacancies/">openings</a> for more info
