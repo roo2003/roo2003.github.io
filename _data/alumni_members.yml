@@ -44,13 +44,23 @@
 - name: Domwon So
   photo: damwon.jpg
   info: Unified Master/PhD Student
-  duration: In ARSL Mar 2012 to Aug 2018,
+  duration: In ARSL Mar 2012 to Aug 2018
   email: dws328@yonsei.ac.kr
   number_educ: 2
   education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2008-Feb 2012)
   education2: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Mar 2012-Aug 2018)
   education3:
 
+- name: Jong-hyuk Lee
+  photo: Jong-hyuk.jpg
+  info: Unified Master/PhD Student
+  duration: In ARSL Mar 2013 to Feb 2022, he is looking for a job now.
+  email: jhlee13@yonsei.ac.kr
+  number_educ: 2
+  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2007-Feb 2013)
+  education2: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Mar 2013-Feb 2022)
+  education3:
+ 
 - name: Jieun Cha
   photo: jieun.jpg
   info: Master Student
