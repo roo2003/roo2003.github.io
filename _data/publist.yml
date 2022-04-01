@@ -1,20 +1,20 @@
 - title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
-  image: Pub_CTH.jpg
+  image: Pub_RTM.jpg
   description: "..."
   authors: Kim, J., D.-B. Shin, and D. Kim
   link:
     url: https://doi.org/10.1109/TGRS.2022.3148404
     display: IEEE Trans. on Geosci. and Remote Sens., 60, 1-15 (2022)
-  highlight: 0
+  highlight: 1
 
 - title: "Algorithm for Improved Stereoscopic Cloud-Top Height Retrieval Based on Visible and Infrared Bands for Himawari-8 and FY-4A"
-  image: Pub_CTH.jpg
+  image: Pub_CTH2.jpg
   description: "We introduce a dual-GEO CTH algorithm based on the parallax, which is the difference in the apparent position of clouds observed from two GEO satellites simultaneously."
   authors: Lee, J. and D.-B Shin
   link:
     url: https://doi.org/10.3390/rs13244993
     display: Remote Sens., 13(24), 4993 (2021)
-  highlight: 0
+  highlight: 1
 
 - title: "A Cloud Top-Height Retrieval Algorithm Using Simultaneous Observations from the Himawari-8 and FY-2E Satellites"
   image: Pub_CTH.jpg
@@ -23,7 +23,7 @@
   link:
     url: https://doi.org/10.3390/rs12121953
     display: Remote Sens., 12(12), 1953 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "A Comparative Study of Rain/No-Rain classification Results Using PCT From GPM/GMI Data by Precipitation Type"
   image: Pub_PCT.jpg
@@ -32,7 +32,7 @@
   link:
     url: https://doi.org/10.1109/TGRS.2020.2988597
     display: IEEE Trans. on Geosci. and Remote Sens., 58(12), 8541-8554 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Passive Microwave Precipitation Retrieval Algorithm With A Priori Databases of Various Cloud Microphysics Schemes: Tropical Cyclone Applications"
   image: Pub_Rain.jpg
