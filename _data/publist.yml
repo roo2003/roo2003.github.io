@@ -1,6 +1,6 @@
 - title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
   image: Pub_RTM.JPG
-  description: "We implemented a passive microwave radiative transfer simulation ensuring the same microphysical assumption as the model providing the input profile, and simulated microwave brightness temperatures."
+  description: "We implemented a passive microwave radiative transfer simulation ensuring the same microphysical assumption as the cloud-model providing the input profile, and simulated microwave brightness temperatures."
   authors: Kim, J., D.-B. Shin, and D. Kim
   link:
     url: https://doi.org/10.1109/TGRS.2022.3148404
