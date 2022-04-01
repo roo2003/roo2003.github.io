@@ -9,7 +9,7 @@
 
 - title: "Algorithm for Improved Stereoscopic Cloud-Top Height Retrieval Based on Visible and Infrared Bands for Himawari-8 and FY-4A"
   image: Pub_CTH2.JPG
-  description: "We introduced a stereoscopic-based CTH retrieval algorithm in <a href="https://doi.org/10.3390/rs12121953">"our previous study"<\a>. In this paper, we propose an improved version using an IR band in addition to a VIS band."
+  description: "We introduced a stereoscopic-based CTH retrieval algorithm in <a href='https://doi.org/10.3390/rs12121953'>our previous study</a>. In this paper, we propose an improved version using an IR band in addition to a VIS band."
   authors: Lee, J. and D.-B Shin
   link:
     url: https://doi.org/10.3390/rs13244993
