@@ -1,3 +1,12 @@
+- title: "Impacts of Increasing CO2 Concentration on One-Dimensional Variational (1D-Var) Temperature Retrievals from AIRS Measurements"
+  image: dummy.png
+  description: ""
+  authors: Lee, J. and D.-B. Shin
+  link:
+    url: https://doi.org/10.1007/s13143-022-00276-3
+    display: Asia-Pac. J. Atmos. Sci., (Accepted)
+  highlight: 0
+  
 - title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
   image: Pub_RTM.JPG
   description: "We implemented a passive microwave radiative transfer simulation ensuring the same microphysical assumption as the cloud-model providing the input profile, and simulated microwave brightness temperatures."
