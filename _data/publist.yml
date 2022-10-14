@@ -1,10 +1,19 @@
+- title: "Differences in Satellite-Based Latent Heating Profiles Beteen the 2015/16 Disruption and Westerly Phase of the Quasi-Biennial Oscillation"
+  image: Pub_QBOLH.JPG
+  description: "We verified an exceptional latent heat releases from the tropical convective systems during the 2015/16 winter QBO disruption, utilizing SLH."
+  authors: Kim, D., D.-B. Shin, J. Kim, M.-J. Kang, H.-K. Lee, and H.-Y. Chun
+  link:
+    url: https://doi.org/10.1029/2021JD036254
+    display: J. Geophysical Research, 127(19), e2021JD036254
+  highlight: 1
+
 - title: "Impacts of Increasing CO2 Concentration on One-Dimensional Variational (1D-Var) Temperature Retrievals from AIRS Measurements"
   image: dummy.png
   description: ""
   authors: Lee, J. and D.-B. Shin
   link:
     url: https://doi.org/10.1007/s13143-022-00276-3
-    display: Asia-Pac. J. Atmos. Sci., (Accepted)
+    display: Asia-Pac. J. Atmos. Sci., 58, 577-589
   highlight: 0
   
 - title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
@@ -19,7 +28,7 @@
 - title: "Algorithm for Improved Stereoscopic Cloud-Top Height Retrieval Based on Visible and Infrared Bands for Himawari-8 and FY-4A"
   image: Pub_CTH2.JPG
   description: "We introduced a stereoscopic-based CTH retrieval algorithm in <a href='https://doi.org/10.3390/rs12121953'>our previous study</a>. In this paper, we propose an improved version using an IR band in addition to a VIS band."
-  authors: Lee, J. and D.-B Shin
+  authors: Lee, J. and D.-B. Shin
   link:
     url: https://doi.org/10.3390/rs13244993
     display: Remote Sens., 13(24), 4993 (2021)
