@@ -6,6 +6,15 @@
     url: https://doi.org/10.1029/2021JD036254
     display: J. Geophysical Research, 127(19), e2021JD036254 (2022)
   highlight: 1
+  
+- title: "Characteristics of Latent Heating Rate From GPM and Convective Gravity Wave Momentum Flux Calculated Using the GPM Data"
+  image: dummy.png
+  description: ""
+  authors: Lee, H.-K., M.-J. Kang, H.-Y. Chun, D.-H. Kim, and D.-B. Shin 
+  link:
+    url: https://doi.org/10.1029/2022JD037003
+    display: J. Geophysical Research, 127(17), e2022JD037003 (2022)
+  highlight: 0
 
 - title: "Impacts of Increasing CO2 Concentration on One-Dimensional Variational (1D-Var) Temperature Retrievals from AIRS Measurements"
   image: dummy.png
