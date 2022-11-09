@@ -1,10 +1,10 @@
 - title: "Differences in Satellite-Based Latent Heating Profiles Beteen the 2015/16 Disruption and Westerly Phase of the Quasi-Biennial Oscillation"
   image: Pub_QBOLH2.JPG
   description: "We verified an exceptional latent heat releases from the tropical convective systems during the 2015/16 winter QBO disruption, utilizing SLH."
-  authors: Kim, D., D.-B. Shin, J. Kim, M.-J. Kang, H.-K. Lee, and H.-Y. Chun
+  authors: Kim, D., D.-B. Shin, J. Kim, M.-J. Kang, H.-K. Lee, and H.-Y. Chun 
   link:
     url: https://doi.org/10.1029/2021JD036254
-    display: J. Geophysical Research, 127(19), e2021JD036254
+    display: J. Geophysical Research, 127(19), e2021JD036254 (2022)
   highlight: 1
 
 - title: "Impacts of Increasing CO2 Concentration on One-Dimensional Variational (1D-Var) Temperature Retrievals from AIRS Measurements"
@@ -13,7 +13,7 @@
   authors: Lee, J. and D.-B. Shin
   link:
     url: https://doi.org/10.1007/s13143-022-00276-3
-    display: Asia-Pac. J. Atmos. Sci., 58, 577-589
+    display: Asia-Pac. J. Atmos. Sci., 58, 577-589 (2022)
   highlight: 0
   
 - title: "Considering Various Multimoment Bulk Microphysics Schemes for Simulation of Passive Microwave Radiative Signatures"
