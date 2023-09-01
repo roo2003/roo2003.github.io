@@ -1,18 +1,10 @@
-- name: Yu-Ri Lee
-  photo: Yu-Ri.jpg
-  info: Postdoc, started Sep 2017
-  email: yrlee12@yonsei.ac.kr
-  number_educ: 3
-  education1: Ph.D., Atmospheric Sciences, Yonsei Univ. (Sep 2012-Aug 2017)
-  education2: M.S., Earth Science Education, Ewha Womans Univ. (Mar 2010-Aug 2012)
-  education3: B.S., Earth Science Education, Ewha Womans Univ. (Mar 2006-Feb 2010)
-
-- name: Hyo-jin Park
-  photo: Hyojin.jpg
-  info: PhD Student (Unified Master's/Docter's Course), started Sep 2009
-  email: phyojin@yonsei.ac.kr
-  number_educ: 1
-  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2004-Aug 2008)
+- name: Jiseob Kim
+  photo: Jiseob.jpg
+  info: Postdoc, started Sep 2023
+  email: ro2003@yonsei.ac.kr
+  number_educ: 2
+  education1: Unified M.S/Ph.D., Atmospheric Sciences, Yonsei Univ. (Mar 2016-Aug 2023)
+  education2: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2010-Feb 2016)
 
 - name: Dong-Cheol Kim
   photo: Dong-Cheol.jpg
@@ -21,13 +13,6 @@
   number_educ: 2
   education1: M.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2014-Feb 2016)
   education2: B.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2008-Feb 2014)
-
-- name: Jiseob Kim
-  photo: Jiseob.jpg
-  info: PhD Student (Unified Master's/Doctor's Course), started Mar 2016
-  email: ro2003@yonsei.ac.kr
-  number_educ: 1
-  education1: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2010-Feb 2016)
 
 - name: Donghyeock Kim
   photo: Dong_Hyeock.jpg
