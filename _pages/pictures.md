@@ -7,6 +7,24 @@ permalink: /pictures/
 
 # Pictures
 
+## 2023
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pic_2023.JPG" width="80%" >
+</figure>
+
+## 2022
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pic_2022.JPG" width="80%" >
+</figure>
+
+## 2021
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/pic_2021.JPG" width="80%" >
+</figure>
+
 ## 2020
 
 <figure>
