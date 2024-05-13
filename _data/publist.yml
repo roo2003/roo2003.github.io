@@ -1,3 +1,13 @@
+- title: "Gaussian Mixture Model-Based Cloud-Phase Estimation From GEO-KOMPSAT-2A Observations"
+  image: Pub_GMM.JPG
+  description: "This study introduces a novel GMM-based method for cloud-phase estimation using GK2A data, eliminating traditional empirical thresholds and improving phase identification accuracy in varying conditions."
+  authors: Kim, D.-C. and D.-B. Shin 
+  link:
+    url: https://doi.org/10.1109/TGRS.2024.3383888
+    display: IEEE Trans. on Geosci. and Remote Sens., 62, 1-15 (2024)
+  highlight: 1
+
+
 - title: "Effects of Inhomogeneous Ice Particle Habit Distribution on Passive Microwave Radiative Transfer Simulations"
   image: Pub_ICE.JPG
   description: "This research significantly improved the microwave radiative transfer model by considering the spatiotemporal variability of ice particle shapes."
@@ -7,9 +17,9 @@
     display: IEEE Trans. on Geosci. and Remote Sens., 62, 1-20 (2024)
   highlight: 1
 
-- title: "Differences in Satellite-Based Latent Heating Profiles Beteen the 2015/16 Disruption and Westerly Phase of the Quasi-Biennial Oscillation"
+- title: "Differences in Satellite-Based Latent Heating Profiles Between the 2015/16 Disruption and Westerly Phase of the Quasi-Biennial Oscillation"
   image: Pub_QBOLH2.JPG
-  description: "We verified an exceptional latent heat releases from the tropical convective systems during the 2015/16 winter QBO disruption, utilizing SLH."
+  description: "We verified exceptional latent heat releases from the tropical convective systems during the 2015/16 winter QBO disruption, utilizing SLH."
   authors: Kim, D., D.-B. Shin, J. Kim, M.-J. Kang, H.-K. Lee, and H.-Y. Chun 
   link:
     url: https://doi.org/10.1029/2021JD036254
@@ -86,7 +96,7 @@
   link:
     url: https://doi.org/10.1002/qj.3288
     display: Quart. J. of the Roy. Meteorol. Soc., 114(S1), 133-144 (2018)
-  highlight: 1
+  highlight: 0
 
 - title: "Assessment of WRF microphysics schemes in simulation of extreme precipitation events based on microwave radiative signatures"
   image: dummy.png
