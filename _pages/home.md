@@ -6,7 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a remote sensing technology group at the [Department of Atmospheric Sciences, Yonsei University](https://atmos.yonsei.ac.kr/eng/). Our research focuses on satellite remote sensing of clouds and precipitation that are key components in the global water and energy cycles.
+We are a remote sensing technology group at the [Department of Atmospheric Sciences, Yonsei University](https://yatmos.github.io/eng/).
+
+Our research focuses on satellite remote sensing of clouds and precipitation, which are crucial components of the global water and energy cycles. To this end, we aim to understand and simulate the interactions between infrared or microwave satellite observations and precipitation clouds through radiative transfer modeling.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -55,10 +57,7 @@ We are a remote sensing technology group at the [Department of Atmospheric Scien
 
 
 
-Current research aims to develop precipitation retrieval algorithms for various microwave, visible and infrared sensors. Our research also involves the use of space borne- and ground-based observations and cloud-radiative transfer models to understand radiative and physical characteristics of precipitation systems. The other research area includes satellite mission planning and applications of remotely-sensed data to climate study (see [Research](research)).
-
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
+Current research is directed at developing retrieval algorithms of cloud properties and precipitation using infrared and microwave measurements. Our research also involves microwave radiative transfer simulations that adequately represent non-spherical and inhomogeneous hydrometeors in precipitating clouds. This research is fundamental to understanding the radiative and physical characteristics of precipitating clouds and to measuring their microphysical properties of clouds. Another key research area involves applying remotely sensed data to climate studies (see [Research](research)).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/transperent.png" style="width: 20%">
