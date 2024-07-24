@@ -28,7 +28,7 @@ The initial version of the parametric rainfall retrieval algorithm was developed
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
-**The section below is currently under construction. Please check back later for updates**
+**[The section below is currently under construction. Please check back later for updates]**
 
  **Retrieval algorithm for monthly oceanic rainfall**
 
