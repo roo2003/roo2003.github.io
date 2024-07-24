@@ -8,30 +8,27 @@ permalink: /research/
 
 # Research
 
-Here are some themes and techniques that we currently work on:
+The following are the main areas we are currently working on:
 
-- [Passive Microwave Remote Sensing of Precipitation](#Passive-microwave-remote-sensing-of-precipitation)  
-- [Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm](#Development-of-GEO-KOMPSAT-2A-Operational-Rainfall-and-QPN-Algorithm)  
-- [Radar Operation and Applications](#Radar-Operation-and-Applications)  
-- [Cloud Microphysics and Satellite Observation](#Cloud-Microphysics-and-Satellite-Observation)  
-- [Utilization of Infrared and Microwave Data for Satellite Data Assimilation](#Utilization-of-Infrared-and-Microwave-Data-for-Satellite-Data-Assimilation)  
-- [Water Cycle Balance and Trend](#Water-Cycle-Balance-and-Trend)  
+- [Satellite remote sensing of clouds and precipitation](#Satellite-remote-sensing-of-clouds-and-precipitation)  
+- [Microwave radiative modeling through precipitating clouds](#Microwave-radiative-modeling-through-precipitating-clouds)  
+- [Balance and trends of atmospheric water cycle](#Balance-and-trends-of-atmospheric-water-cycle)  
 
 <hr/>
 
-### Passive Microwave Remote Sensing of Precipitation
+### Satellite remote sensing of clouds and precipitation
 
-Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water and microwave signals at scattering channels with higher frequencies are depressed with the amount and types of ice particles above the rain columns. Our researches focus on the developments of rainfall retrieval algorithms and improving the retrieval accuracy.
+**Passive microwave remote sensing of precipitation
 
+Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water. In contrast, microwave signals at scattering channels with higher frequencies are attenuated by the amount and types of ice particles in the rain column. Our research focuses on the development of rainfall retrieval algorithms and improving retrieval accuracy. We are also working on applying machine learning methods to precipitation-type classification and inversion models. Followings are brief descriptions of the precipitation algorithm and retrieval error studies.
 
+*Advancement of the parametric rainfall retrieval algorithm
 
+The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in 2003 (Shin and Kummerow). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: Kim et al. (2013) and Choi et al. (2019).
 
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
- **Development of a rainfall retrieval algorithm based a parametric approach**
-
- This methodology is based on simultaneous uses of space-borne radar, cloud resolving models and radiative transfer models for construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed for applications to a variety of passive microwave sensors that exist today and are planned for the future.
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+*** The section below is currently under construction. Please check back later for updates ***
 
  **Retrieval algorithm for monthly oceanic rainfall**
 
