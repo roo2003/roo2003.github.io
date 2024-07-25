@@ -36,7 +36,7 @@ Our research focuses on satellite remote sensing of clouds and precipitation, wh
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RTM-nonsphere.JPG" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RTM-microphysics.JPG" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/RTM-microphysic.JPG" alt="Slide 5" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
