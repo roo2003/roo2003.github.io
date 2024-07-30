@@ -24,7 +24,7 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
 **- Advancement of the parametric rainfall retrieval algorithm**
 
-The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in 2003 (Shin and Kummerow). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: Kim et al. (2013) and Choi et al. (2019).
+The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in 2003 (Shin and Kummerow). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: [Kim et al. (2013)](https://doi.org/10.1175/JTECH-D-12-00261.1) and [Choi et al. (2019)](https://doi.org/10.1109/TGRS.2019.2948262).
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
