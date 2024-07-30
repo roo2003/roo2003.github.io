@@ -18,7 +18,7 @@ The following are the main areas we are currently working on:
 
 ## Satellite remote sensing of clouds and precipitation
 
-### (1) Passive microwave remote sensing of precipitation
+#### (1) Passive microwave remote sensing of precipitation
 
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water. In contrast, microwave signals at scattering channels with higher frequencies are attenuated by the amount and types of ice particles in the rain column. Our research focuses on the development of rainfall retrieval algorithms and improving retrieval accuracy. We are also working on applying machine learning methods to precipitation-type classification and inversion models. Followings are brief descriptions of the precipitation algorithm and retrieval error studies.
 
