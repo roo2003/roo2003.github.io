@@ -18,7 +18,7 @@ The following are the main areas we are currently working on:
 
 ## Satellite remote sensing of clouds and precipitation
 
-#### (1) Passive microwave remote sensing of precipitation
+### (1) Passive microwave remote sensing of precipitation
 
 Passive microwave signatures from satellites are based on emission and scattering from the liquid and frozen hydrometeors in the cloud columns. Warm emission signals indicate the presence of liquid water. In contrast, microwave signals at scattering channels with higher frequencies are attenuated by the amount and types of ice particles in the rain column. Our research focuses on the development of rainfall retrieval algorithms and improving retrieval accuracy. We are also working on applying machine learning methods to precipitation-type classification and inversion models. Followings are brief descriptions of the precipitation algorithm and retrieval error studies.
 
@@ -34,7 +34,15 @@ There are many sources of error in passive microwave rainfall estimation. Errors
 
 As an example, the following figure shows the effect of three-dimensional radiative effects of the precipitating system in rainfall measurements [(Kim et al., 2016)](https://doi.org/10.1109/TGRS.2015.2490743). Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The three-dimensional characteristics can then cause errors in the passive microwave rainfall measurements within the current off-nadir viewing sensors' specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
+
+### (2) Cloud and precipitation measurements from infrared observations
+
+Visible and infrared observations from satellites are used to detect the optical properties of clouds and precipitation. We are working on developing precipitation and cloud phase algorithms based on physical, statistical, and machine-learning methods. Here are several examples of our team's work with infrared satellite data.
+
+ **- An operational rainfall rate algorithm for GEO-KOMPSAT-2A satellite**
+
+Geostationary satellites have 
 
 <hr/>
 
