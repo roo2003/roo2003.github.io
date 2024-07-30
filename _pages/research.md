@@ -51,6 +51,14 @@ Geostationary satellites have the advantage of continuously observing weather sy
 
 The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GK-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitating fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hour rainfall. In addition, the extrapolated precipitation fields at 15-minute intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period. The QPN products can be classified as extrapolated features associated with precipitation [(Hong et al., 2016)](https://doi.org/10.1109/TGRS.2016.2596293).
 
+ **(2-3) Measuring cloud phase based on machine learning approach**
+
+Cloud thermodynamic phases include water, ice, and mixtures of the two, which play a significant role in the Earth's radiation budget due to their influence on the optical properties of clouds. A cloud phase algorithm based on an unsupervised machine learning technique with Gaussian Mixture Models (GMMs) has been developed. The GMM-based algorithm uses the brightness temperature (TB) of 11.2 (&#181;m) and the brightness temperature difference (BTD) of 8.6 and 11.2 (&#181;m) are applied to classify three different cloud phases including water, ice, and undetermined phases.
+
+The water and ice phases estimated using the GMM-based algorithm are in good agreement with both the MODIS and CALIOP products. The GMM-based algorithm also significantly reduces the misidentified area for undetermined phases observed in the GK2A operational product. Water and ice phases are also effectively estimated in warm regions, resulting in distributions similar to those derived from MODIS and CALIOP products. Unlike most IR cloud-phase algorithms that utilize thresholds and other cloud parameters, the GMM-based cloud-phase algorithm has the advantage of using only TB, thus avoiding auxiliary cloud properties. The following figure compares GMM-based cloud phases to other products. More details can be found in [Kim and Shin (2024)](https://doi.org/10.1109/TGRS.2024.3383888).
+
+ ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
+
 <hr/>
 
 **[The section below is currently under construction. Please check back later for updates]**
