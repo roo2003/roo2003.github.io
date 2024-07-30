@@ -16,7 +16,7 @@ The following are the main areas we are currently working on:
 
 <hr/>
 
-## Satellite remote sensing of clouds and precipitation
+## [Satellite remote sensing of clouds and precipitation]
 
 ### Passive microwave remote sensing of precipitation
 
