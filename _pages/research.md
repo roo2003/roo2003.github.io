@@ -24,27 +24,21 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
 **- Advancement of the parametric rainfall retrieval algorithm**
 
-The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in 2003 (Shin and Kummerow). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: [Kim et al. (2013)](https://doi.org/10.1175/JTECH-D-12-00261.1) and [Choi et al. (2019)](https://doi.org/10.1109/TGRS.2019.2948262).
+The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in 2003 (Shin and Kummerow). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: [Kim et al. (2013)](https://doi.org/10.1175/JTECH-D-12-00261.1) and [Choi et al. (2019)](https://doi.org/10.1109/TGRS.2019.2948262).
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
-**[The section below is currently under construction. Please check back later for updates]**
+ **- Retrieval error analysis**
 
- **Retrieval algorithm for monthly oceanic rainfall**
+There are many sources of error in passive microwave rainfall estimation. Errors can be related to rainfall inhomogeneity within a large footprint (so-called beam-filling error), rain-column height, excessive emission from melting ice (bright-band effect), three-dimensional radiative effects of the precipitating system, forward model assumptions, and so on. These uncertainties can also be observed differently for different precipitation types and climate regimes. A better understanding of the uncertainties is important for better rainfall algorithms.
 
- With the accumulated satellite datasets for decades, it is possible that satellite-based data could contribute to sustained climate applications. Level-3 products from microwave sensors for climate applications can be obtained from several algorithms. For examples, the Microwave Emission brightness Temperature Histogram (METH) algorithm produces level-3 rainfalls directly, whereas the TRMM/GPM level-2 algorithms first generates instantaneous rainfalls and then temporal and spatial averaging process leads to level-3 products. The rainfall algorithm developed in this study follows a similar approach to averaging instantaneous rainfalls. However, the algorithm is designed to produce instantaneous rainfalls at an optimal resolution showing reduced non-linearity in brightness temperature (TB)-rain rate(R) relations. It is found that the resolution tends to effectively utilize emission channels whose footprints are relatively larger than those of scattering channels.
-
- This algorithm is mainly composed of a-priori databases (DBs) and a Bayesian inversion module. The DB contains massive pairs of simulated microwave TBs and rain rates, obtained by cloud and radiative transfer simulations. To improve the accuracy and efficiency of retrieval process, data mining technique is additionally considered. The entire DB is classified into eight types based on Koppen climate classification criteria using reanalysis data. Among these sub-DBs, only one sub-DB that presents the most similar physical characteristics is selected by considering the thermodynamics of input data. When the Bayesian inversion is applied to the selected DB, instantaneous rain rate with 6 hours interval is retrieved.
-
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive2.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
-
- **Retrieval error reduction**
-
- Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The 3-D characteristics can then cause errors in the passive microwave rainfall measurements with the current off-nadir viewing sensors’ specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
+As an example, the following figure shows the effect of three-dimensional radiative effects of the precipitating system in rainfall measurements [(Kim et al., 2016)](https://doi.org/10.1109/TGRS.2015.2490743). Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The three-dimensional characteristics can then cause errors in the passive microwave rainfall measurements within the current off-nadir viewing sensors' specifications. It was found that taking more viewing angles or the azimuth angles in the a priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<br>
 
 <hr/>
+
+**[The section below is currently under construction. Please check back later for updates]**
 
 ### Development of GEO-KOMPSAT-2A Operational Rainfall and QPN Algorithm
 
