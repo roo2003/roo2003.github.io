@@ -47,7 +47,7 @@ Geostationary satellites have the advantage of continuously observing weather sy
 [image]
 [webpage link]
 
- **- Quantitative Precipitating Nowcasts (QPN) algorithms GK-2A satellite**
+ **(2-2) Quantitative Precipitating Nowcasts (QPN) algorithms GK-2A satellite**
 
 The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GK-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitating fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hour rainfall. In addition, the extrapolated precipitation fields at 15-minute intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period. The QPN products can be classified as extrapolated features associated with precipitation [(Hong et al., 2016)](https://doi.org/10.1109/TGRS.2016.2596293).
 
