@@ -16,9 +16,9 @@ The following are the main areas we are currently working on:
 
 (Click on each research area to navigate to the respective section)
 
-<hr/>
+<be>
 <a id='remote-sensing'></a>
-<br>
+<hr/>
 
 ## Satellite remote sensing of clouds and precipitation
 
@@ -63,9 +63,9 @@ The water and ice phases estimated using the GMM-based algorithm are in good agr
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
-<hr/>
+<be>
 <a id='rtm'></a>
-<br>
+<hr/>
 
 ## Microwave radiative modeling through precipitating clouds
 
@@ -87,9 +87,9 @@ Microwave data are important for all weather data assimilation. Microwave radiat
 
 We are developing ice particle retrieval algorithms for high frequencies in a variety of passive and active microwave sensors based on more accurate scattering simulations that consider non-spherical and inhomogeneous ice particles. Retrieval methods include numerical model simulations, deep-learning approaches, etc.
 
-<hr/>
+<be>
 <a id='water-cycle'></a>
-<br>
+<hr/>
 
 ## Balance and trends of the atmospheric water cycle
 
