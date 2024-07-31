@@ -17,8 +17,8 @@ The following are the main areas we are currently working on:
 (Click on each research area to navigate to the respective section)
 
 <hr/>
-
-## Satellite remote sensing of clouds and precipitation <a id='remote-sensing'></a>
+<a id='remote-sensing'></a>
+## Satellite remote sensing of clouds and precipitation
 
 ### (1) Passive microwave remote sensing of precipitation
 
