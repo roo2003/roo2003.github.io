@@ -8,6 +8,8 @@ permalink: /research/
 
 # Research
 
+<br>
+
 The following are the main areas we are currently working on:
 
 - [Satellite remote sensing of clouds and precipitation](#remote-sensing)  
@@ -19,6 +21,7 @@ The following are the main areas we are currently working on:
 <br>
 <a id='remote-sensing'></a>
 <hr/>
+<br>
 
 ## Satellite remote sensing of clouds and precipitation
 
@@ -66,6 +69,7 @@ The water and ice phases estimated using the GMM-based algorithm are in good agr
 <br>
 <a id='rtm'></a>
 <hr/>
+<br>
 
 ## Microwave radiative modeling through precipitating clouds
 
@@ -90,6 +94,7 @@ We are developing ice particle retrieval algorithms for high frequencies in a va
 <br>
 <a id='water-cycle'></a>
 <hr/>
+<br>
 
 ## Balance and trends of the atmospheric water cycle
 
