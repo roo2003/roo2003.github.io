@@ -10,13 +10,13 @@ permalink: /research/
 
 The following are the main areas we are currently working on:
 
-- [Satellite remote sensing of clouds and precipitation](#Satellite-remote-sensing-of-clouds-and-precipitation)  
-- [Microwave radiative modeling through precipitating clouds](#Microwave-radiative-modeling-through-precipitating-clouds)  
-- [Balance and trends of atmospheric water cycle](#Balance-and-trends-of-atmospheric-water-cycle)  
+- [Satellite remote sensing of clouds and precipitation](#remote-sensing)  
+- [Microwave radiative modeling through precipitating clouds](#rtm)  
+- [Balance and trends of atmospheric water cycle](#water-cycle)  
 
 <hr/>
 
-## Satellite remote sensing of clouds and precipitation
+## <a id='remote-sensing'></a>Satellite remote sensing of clouds and precipitation
 
 ### (1) Passive microwave remote sensing of precipitation
 
@@ -61,7 +61,7 @@ The water and ice phases estimated using the GMM-based algorithm are in good agr
 
 <hr/>
 
-## Microwave radiative modeling through precipitating clouds
+## <a id='rtm'></a>Microwave radiative modeling through precipitating clouds
 
 Microwave emission and scattering signatures through precipitating clouds depend on the characteristics of hydrometeors. Clouds of hydrometeors act as volume scatterers and emitters. The individual optical properties of hydrometeors and their size distributions in volume are important in modeling microwave emission and scattering. In particular, scattering by ice particles is one of the most uncertain components in microwave radiative transfer modeling. This is because ice particles can have different shapes, densities, orientations, and particle size distributions (PSDs). Followings are brief descriptions of the passive microwave microwave radiative transfer simulations considering non-spherical and inhomogeneous hydrometeors.
 
@@ -84,7 +84,7 @@ We are developing ice particle retrieval algorithms for high frequencies in a va
 <hr/>
 
 
-## Balance and trends of the atmospheric water cycle
+## <a id='water-cycle'></a>Balance and trends of the atmospheric water cycle
 
 Our research explores the balance of the atmospheric water cycle and examines trends in regional imbalances. This includes comprehensive studies of how water vapor is transported through the atmosphere, how precipitation patterns change over time, and how these changes affect different regions. Understanding these trends is critical for predicting future climate scenarios and mitigating the impacts of regional water imbalances on ecosystems and human activities.
 
