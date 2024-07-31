@@ -65,19 +65,19 @@ The water and ice phases estimated using the GMM-based algorithm are in good agr
 
 Microwave emission and scattering signatures through precipitating clouds depend on the characteristics of hydrometeors. Clouds of hydrometeors act as volume scatterers and emitters. The individual optical properties of hydrometeors and their size distributions in volume are important in modeling microwave emission and scattering. In particular, scattering by ice particles is one of the most uncertain components in microwave radiative transfer modeling. This is because ice particles can have different shapes, densities, orientations, and particle size distributions (PSDs). Followings are brief descriptions of the passive microwave microwave radiative transfer simulations considering non-spherical and inhomogeneous hydrometeors.
 
-#### <strong>(1) Modeling microwave scattering from non-sphere and inhomogeneous ice particles</strong>
+**(1) Modeling microwave scattering from non-sphere and inhomogeneous ice particles**
 
 PSDs of hydrometeors are usually assumed through a bulk parameterization approach based on various distribution functions like exponential and modified Gamma distribution functions. We are working on developing methods to incorporating non-spherical ice particles and various microphysical properties of hydrometeors into radiative transfer modeling for more accurate scattering signals. The following figures demonstrate the effects of spherical/non-spherical assumptions and different PSDs in simulating scattering signals at the high-frequency channels of GMI.
 
 [image]
 
-#### <strong>(2) Incorporation of various cloud microphysics schemes into microwave radiative transfer models for physically consistent radiative simulations for all weather data assimilation</strong>
+**(2) Incorporation of various cloud microphysics schemes into microwave radiative transfer models for physically consistent radiative simulations for all weather data assimilation**
 
 Microwave data are important for all weather data assimilation. Microwave radiative transfer models for data assimilation need to adopt the properties of hydrometeors used in numerical weather prediction models. One of the key assumptions about the properties of hydrometeors is in cloud microphysics schemes. We are working to develop methods to effectively incorporate cloud microphysics schemes into radiative transfer models used for data assimilation.
 
 [image?]
 
-#### <strong>(3) Retrievals of the microphysical properties of ice particles based on cloud models and scattering modeling</strong>
+**(3) Retrievals of the microphysical properties of ice particles based on cloud models and scattering modeling**
 
 We are developing ice particle retrieval algorithms for high frequencies in a variety of passive and active microwave sensors based on more accurate scattering simulations that consider non-spherical and inhomogeneous ice particles. Retrieval methods include numerical model simulations, deep-learning approaches, etc.
 
@@ -88,6 +88,6 @@ We are developing ice particle retrieval algorithms for high frequencies in a va
 
 Our research explores the balance of the atmospheric water cycle and examines trends in regional imbalances. This includes comprehensive studies of how water vapor is transported through the atmosphere, how precipitation patterns change over time, and how these changes affect different regions. Understanding these trends is critical for predicting future climate scenarios and mitigating the impacts of regional water imbalances on ecosystems and human activities.
 
-#### <strong>Global and regional atmospheric water balance closure problems and trends</strong>
+**Global and regional atmospheric water balance closure problems and trends**
 
 The atmospheric water cycle is one of the most important components of the global water cycle. Large amounts of water vapor that are evaporated from the ocean are transported to the continents through the atmosphere. The transported water vapor is converted into precipitating which provides vital water for living things on Earth. Precipitation and evaporation over the oceans change the sea surface salinity and help to drive the ocean thermohaline circulation. Changes in the phase of water in the atmosphere involve latent heat exchanges. Latent heat released by condensation is one of the major energy sources driving the general circulation of the atmosphere. Knowledge of the atmospheric water cycle is therefore essential in order to manage water resources and to understand the Earth's weather and climate. Our research uses the column-integrated atmospheric water balance over the ocean using various satellite-based and merged datasets and focuses on the closures and climatological trends of the regional unbalances. 
