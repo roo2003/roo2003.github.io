@@ -14,6 +14,8 @@ The following are the main areas we are currently working on:
 - [Microwave radiative modeling through precipitating clouds](#rtm)  
 - [Balance and trends of atmospheric water cycle](#water-cycle)  
 
+(Click on each research area to navigate to the respective section)
+
 <hr/>
 
 ## <a id='remote-sensing'></a>Satellite remote sensing of clouds and precipitation
