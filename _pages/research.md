@@ -18,8 +18,8 @@ The following are the main areas we are currently working on:
 
 (Click on each research area to navigate to the respective section)
 
-<div style="margin-top: 30px;"></div>
 <a id='remote-sensing'></a>
+<div style="margin-top: 30px;"></div>
 <hr/>
 <div style="margin-top: 30px;"></div>
 
@@ -66,8 +66,8 @@ The water and ice phases estimated using the GMM-based algorithm are in good agr
 
  ![]({{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
 
-<div style="margin-top: 30px;"></div>
 <a id='rtm'></a>
+<div style="margin-top: 30px;"></div>
 <hr/>
 <div style="margin-top: 30px;"></div>
 
@@ -91,8 +91,8 @@ Microwave data are important for all weather data assimilation. Microwave radiat
 
 We are developing ice particle retrieval algorithms for high frequencies in a variety of passive and active microwave sensors based on more accurate scattering simulations that consider non-spherical and inhomogeneous ice particles. Retrieval methods include numerical model simulations, deep-learning approaches, etc.
 
-<div style="margin-top: 30px;"></div>
 <a id='water-cycle'></a>
+<div style="margin-top: 30px;"></div>
 <hr/>
 <div style="margin-top: 30px;"></div>
 
