@@ -43,7 +43,9 @@ There are many sources of error in passive microwave rainfall estimation. Errors
 
 As an example, the following figure shows the effect of three-dimensional radiative effects of the precipitating system in rainfall measurements [(Kim et al., 2016)](https://doi.org/10.1109/TGRS.2015.2490743). Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The three-dimensional characteristics can then cause errors in the passive microwave rainfall measurements within the current off-nadir viewing sensors' specifications. It was found that taking more viewing angles or the azimuth angles in the a-priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
+<div style="text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/passive6.jpg" style="width: 80%; margin: 2%;">
+</div>
 
 ### (2) Cloud and precipitation measurements from infrared observations
 
@@ -56,17 +58,19 @@ Geostationary satellites have the advantage of continuously observing weather sy
 [image]
 [webpage link]
 
- **(2-2) Quantitative Precipitating Nowcasts (QPN) algorithms GK-2A satellite**
+**(2-2) Quantitative Precipitating Nowcasts (QPN) algorithms GK-2A satellite**
 
 The AMI QPN products include the potential accumulated rainfall and the probability of rainfall for a 3-h lead time. The potential accumulated rainfall algorithm consists of two major procedures: 1) identification of rainfall features on the outputs from the GK-2A rainfall rate algorithm, and 2) tracking of these rainfall features between two consecutive images. The potential accumulated rainfall algorithm extrapolates precipitating fields every 15 min. Rainfall rates at each time step are accumulated to yield the 3-hour rainfall. In addition, the extrapolated precipitation fields at 15-minute intervals are used as inputs for the probability of rainfall algorithm, which produces the probability of precipitation during the same 3-h period. The QPN products can be classified as extrapolated features associated with precipitation [(Hong et al., 2016)](https://doi.org/10.1109/TGRS.2016.2596293).
 
- **(2-3) Measuring cloud phase based on machine learning approach**
+**(2-3) Measuring cloud phase based on machine learning approach**
 
 Cloud thermodynamic phases include water, ice, and mixtures of the two, which play a significant role in the Earth's radiation budget due to their influence on the optical properties of clouds. A cloud phase algorithm based on an unsupervised machine learning technique with Gaussian Mixture Models (GMMs) has been developed. The GMM-based algorithm uses the brightness temperature (TB) of 11.2 (&#181;m) and the brightness temperature difference (BTD) of 8.6 and 11.2 (&#181;m) are applied to classify three different cloud phases including water, ice, and undetermined phases.
 
 The water and ice phases estimated using the GMM-based algorithm are in good agreement with both the MODIS and CALIOP products. The GMM-based algorithm also significantly reduces the misidentified area for undetermined phases observed in the GK2A operational product. Water and ice phases are also effectively estimated in warm regions, resulting in distributions similar to those derived from MODIS and CALIOP products. Unlike most IR cloud-phase algorithms that utilize thresholds and other cloud parameters, the GMM-based cloud-phase algorithm has the advantage of using only TB, thus avoiding auxiliary cloud properties. The following figure compares GMM-based cloud phases to other products. More details can be found in [Kim and Shin (2024)](https://doi.org/10.1109/TGRS.2024.3383888).
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
+<div style="text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg" style="width: 80%; margin: 2%;">
+</div>
 
 <a id='rtm'></a>
 <div style="margin-top: 30px;"></div>
