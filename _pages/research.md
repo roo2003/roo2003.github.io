@@ -58,7 +58,8 @@ Geostationary satellites have the advantage of continuously observing weather sy
 <div style="text-align: center;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/respic/gk-2a_rr.JPG" style="width: 80%; margin: 2%;">
 </div>
-[webpage link]
+
+These images and data are provided by the National Meteorological Satellite Center (NMSC). For more details, visit [NMSC Satellite Viewer](https://nmsc.kma.go.kr/homepage/html/satellite/viewer/selectNewSatViewer.do?dataType=operSat).
 
 **(2-2) Quantitative Precipitating Nowcasts (QPN) algorithms GK-2A satellite**
 
