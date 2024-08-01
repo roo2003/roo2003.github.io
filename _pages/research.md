@@ -33,9 +33,11 @@ Passive microwave signatures from satellites are based on emission and scatterin
 
 The initial version of the parametric rainfall retrieval algorithm was developed for various spaceborne microwave radiometers in [2003 (Shin and Kummerow)](https://doi.org/10.1175/1520-0450(2003)042<1480:PRRAFP>2.0.CO;2). It is based on simultaneous uses of space-borne radar, cloud-resolving, and radiative transfer models for the construction of a-priori information. This fully parametric rainfall retrieval algorithm is designed to be applicable to a wide variety of passive microwave sensors that currently exist and are planned for the future. The algorithm is continuously being improved by including radiative transfer simulations that are physically consistent with the cloud microphysics used in cloud models: [Kim et al. (2013)](https://doi.org/10.1175/JTECH-D-12-00261.1) and [Choi et al. (2019)](https://doi.org/10.1109/TGRS.2019.2948262).
 
- ![]({{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg){: style="width: 70%; float: center; margin: 2%"}<be>
+<div style="text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/passive1.jpg" style="width: 80%; margin: 2%;">
+</div>
 
- **(1-2) Retrieval error analysis**
+**(1-2) Retrieval error analysis**
 
 There are many sources of error in passive microwave rainfall estimation. Errors can be related to rainfall inhomogeneity within a large footprint (so-called beam-filling error), rain-column height, excessive emission from melting ice (bright-band effect), three-dimensional radiative effects of the precipitating system, forward model assumptions, and so on. These uncertainties can also be observed differently for different precipitation types and climate regimes. A better understanding of the uncertainties is important for better rainfall algorithms.
 
