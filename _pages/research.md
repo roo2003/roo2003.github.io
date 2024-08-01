@@ -21,7 +21,7 @@ The following are the main areas we are currently working on:
 <br>
 <a id='remote-sensing'></a>
 <hr/>
-<div style="margin-top: 15px;"></div>
+<div style="margin-top: 30px;"></div>
 
 ## Satellite remote sensing of clouds and precipitation
 
