@@ -44,7 +44,7 @@ There are many sources of error in passive microwave rainfall estimation. Errors
 As an example, the following figure shows the effect of three-dimensional radiative effects of the precipitating system in rainfall measurements [(Kim et al., 2016)](https://doi.org/10.1109/TGRS.2015.2490743). Vertically and horizontally inhomogeneous distributions of hydrometeors are often observed in precipitating clouds. The three-dimensional characteristics can then cause errors in the passive microwave rainfall measurements within the current off-nadir viewing sensors' specifications. It was found that taking more viewing angles or the azimuth angles in the a-priori information into consideration tended to moderate the retrieval difference that resulted from the different viewing directions.
 
 <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/3deffect.JPG" style="width: 50%; margin: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/3deffect.JPG" style="width: 70%; margin: 2%;">
 </div>
 
 ### (2) Cloud and precipitation measurements from infrared observations
