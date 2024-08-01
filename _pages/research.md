@@ -72,7 +72,7 @@ Cloud thermodynamic phases include water, ice, and mixtures of the two, which pl
 The water and ice phases estimated using the GMM-based algorithm are in good agreement with both the MODIS and CALIOP products. The GMM-based algorithm also significantly reduces the misidentified area for undetermined phases observed in the GK2A operational product. Water and ice phases are also effectively estimated in warm regions, resulting in distributions similar to those derived from MODIS and CALIOP products. Unlike most IR cloud-phase algorithms that utilize thresholds and other cloud parameters, the GMM-based cloud-phase algorithm has the advantage of using only TB, thus avoiding auxiliary cloud properties. The following figure compares GMM-based cloud phases to other products. More details can be found in [Kim and Shin (2024)](https://doi.org/10.1109/TGRS.2024.3383888).
 
 <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg" style="width: 80%; margin: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/GMM-cloudphase.jpg" style="width: 70%; margin: 2%;">
 </div>
 
 <a id='rtm'></a>
