@@ -89,10 +89,10 @@ Microwave emission and scattering signatures through precipitating clouds depend
 PSDs of hydrometeors are usually assumed through a bulk parameterization approach based on various distribution functions like exponential and modified Gamma distribution functions. We are working on developing methods to incorporating non-spherical ice particles and various microphysical properties of hydrometeors into radiative transfer modeling for more accurate scattering signals. The following figures demonstrate the effects of spherical/non-spherical assumptions and different PSDs in simulating scattering signals at the high-frequency channels of GMI.
 
 <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rtm-microphysics.JPG" style="width: 75%; margin: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rtm-microphysics.JPG" style="width: 77%; margin: 2%;">
 </div>
 <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rtm-nonspherical.JPG" style="width: 85%; margin: 2%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/respic/rtm-nonspherical.JPG" style="width: 83%; margin: 2%;">
 </div>
 
 **(2) Incorporation of various cloud microphysics schemes into microwave radiative transfer models for physically consistent radiative simulations for all weather data assimilation**
