@@ -74,12 +74,33 @@
 
 - name: Jiseob Kim
   photo: Jiseob_new.jpg
-  info: Unified Master/Ph.D.
+  info: Unified Master/Ph.D. and Postdoc
   duration: In ARSL Mar 2016 to Aug 2024, now Postdoctoral Researcher at McGill Univ., Canda
   email: jiseob.kim@mcgill.ca
   number_educ: 2
   education1: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Mar 2016-Aug 2023)
   education2: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2010-Feb 2016)
+  education3: 
+
+- name: Dong-cheol Kim
+  photo: Dong-Cheol.jpg
+  info: Ph.D. and Postdoc 
+  duration: In ARSL Mar 2016 to present, now Postdoctoral Researcher at Yonsei Univ.
+  email: mr_cheol@yonsei.ac.kr
+  number_educ: 3
+  education1: Ph.D., Atmospheric Sciences, Yonsei Univ. (Mar 2016-Aug 2025)
+  education2: M.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2014-Feb 2016)
+  education3: B.S., Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. (Mar 2008-Feb 2014)
+  education4:
+ 
+- name: Donghyeck Kim
+  photo: Dong-Hyeock.jpg
+  info: Ph.D. and Postdoc 
+  duration: In ARSL Mar 2018 to Oct 2026, now Postdoctoral Researcher at Politecnico di Torino, Italy
+  email: kimbab1111@yonsei.ac.kr
+  number_educ: 2
+  education1: Unified Master/phD, Atmospheric Sciences, Yonsei Univ. (Mar 2018-Feb 2026)
+  education2: B.S., Atmospheric Sciences, Yonsei Univ. (Mar 2012-Feb 2018)
   education3: 
  
 - name: Jieun Cha
